@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Waiter</string>
+    <string name="welcome_description">Ordering system for Unknown whiskey bar.</string>
+    <string name="skeleton_notice">Initial app skeleton.</string>
+</resources>
